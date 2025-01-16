@@ -2,7 +2,7 @@
 
 To Run 
 
-:-1. Create vite@latest (Project name ,React ,Js  then cd project file name then procced) 
+:-1. Create vite@latest (Project name ,React ,Js  then cd project file name then proceed) 
 2.npm i 
 3.npm run dev
 
