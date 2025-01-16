@@ -1,0 +1,20 @@
+.buttonss{
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    background-color: rgb(55, 54, 54);
+}
+.buttonss>*{
+    height:100px;
+    width: 100px; 
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+
+}
+.ButtonText{
+    font-size:40px;
+    margin: 10px;
+  
+}
